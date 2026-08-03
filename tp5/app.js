@@ -36,3 +36,15 @@ let colorfavorito = 'blanco'
 
 let nombredefamoso = 'bruno mars'
 
+let numeroDeLaSuerte = 20
+
+let edadFamoso = 40 
+
+console.log('Hola me llamo ' + nombredefamoso + ' tengo de edad ' + edadFamoso + ' mi color favrito es ' + colorfavorito + ' mi comida favorita es ' + comidafavorita + ' mi numero de la suerte es ' + numeroDeLaSuerte)
+
+let nota = 4
+if (nota >= 6) {
+    console.log('Aprobado')
+} else {
+    console.log('Desaprobado')
+}
