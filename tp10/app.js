@@ -38,3 +38,4 @@ boton.onclick = function(){
     //Mostramos los datos del estudiante a partir de la posicion guardada
     p.textContent = 'El estudiante es '+ nombres[pos] +' y tiene un ' + notasProg[pos] + ' en programacion y ' + notasEd[pos] + ' en tecnología'
 }
+
