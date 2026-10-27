@@ -39,3 +39,15 @@ boton.onclick = function(){
     p.textContent = 'El estudiante es '+ nombres[pos] +' y tiene un ' + notasProg[pos] + ' en programacion y ' + notasEd[pos] + ' en tecnología'
 }
 
+productos.push ("leche")
+
+productos.push ("te")
+
+productos.push ("cafe")
+
+console.log (productos)
+
+productos.unshift ("agua")
+
+productos.unshift ("galletas")
+
